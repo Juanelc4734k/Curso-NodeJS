@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "710b052c70c3b730",
+        "id": "301e8e4d577c5143",
         "type": "tabs",
         "children": [
           {
-            "id": "5429d18b8c7a3179",
+            "id": "d27f18bd642a7781",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -130,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -138,8 +147,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6316854a4823f48d",
+  "active": "d27f18bd642a7781",
   "lastOpenFiles": [
+    "README.md",
     "Bienvenido.md"
   ]
 }
