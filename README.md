@@ -9,6 +9,7 @@ Antes de comenzar, es importante que tengas una base sólida en JavaScript. Node
 
 1. **Introducción a Node.js**
    - ¿Qué es Node.js?
+   - ¿Porque usar Node.js?
    - Historia de Node.js
    - Diferencias entre Node.js y el navegador
    - Ejecutando código en Node.js
